@@ -4,5 +4,3 @@ const formulario = document.querySelector(".formulario"),
   mensaje = document.getElementById("mensaje").value,
   btnReset = document.querySelector(".reset"),
   btnEnviar = document.querySelector(".enviar");
-
-console.log(formulario, email, asunto, mensaje, btnReset, btnEnviar);
